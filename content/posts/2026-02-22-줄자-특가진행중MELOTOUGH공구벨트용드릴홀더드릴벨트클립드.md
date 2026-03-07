@@ -1,11 +1,10 @@
 ---
-title: "줄자 추천 TOP5 구매 가이드"
-description: "작업 현장에서 가장 번거로운 순간, 아마 손에 든 드릴을 잠시 내려놓아야 할 때가 아닐까요"
+title: '줄자 추천 TOP5 구매 가이드'
+description: '작업 현장에서 가장 번거로운 순간, 아마 손에 든 드릴을 잠시 내려놓아야 할 때가 아닐까요'
 date: 2026-02-23T22:09:00+09:00
-author: Moon
+author: 'Moon'
 categories: [shopping]
 tags: ["Top5", "shopping", "줄자"]
----
 
 > 💦 이 포스팅은 파트너스 활동을 통해 일정액의 수수료를 제공받습니다. 💦
 

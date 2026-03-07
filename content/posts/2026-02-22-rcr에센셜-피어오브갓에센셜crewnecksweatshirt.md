@@ -1,11 +1,10 @@
 ---
-title: "에센셜 맨투맨 사이즈 실패 없는 법! 장단점부터 코디 꿀팁까지"
-description: "피어오브갓 에센셜(Fear of God Essentials) 크루넥 스웨트셔츠, 왜 여전히 독보적일까요"
+title: '에센셜 맨투맨 사이즈 실패 없는 법! 장단점부터 코디 꿀팁까지'
+description: '피어오브갓 에센셜(Fear of God Essentials) 크루넥 스웨트셔츠, 왜 여전히 독보적일까요'
 date: 2026-02-23T15:59:00+09:00
-author: Moon
+author: 'Moon'
 categories: [shopping]
 tags: ["Top5", "shopping", "rcr에센셜", "피어오브갓에센셜", "에센셜맨투맨", "FOGEssentials", "남자맨투맨추천", "에센셜사이즈", "스트릿패션"]
----
 
 > 💦 이 포스팅은 파트너스 활동을 통해 일정액의 수수료를 제공받습니다. 💦
 

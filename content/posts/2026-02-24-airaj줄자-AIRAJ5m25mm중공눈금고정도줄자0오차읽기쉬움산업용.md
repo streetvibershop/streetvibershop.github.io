@@ -1,11 +1,10 @@
 ---
-title: "AIRAJ 5m 줄자, 0오차로 120% 정확! 전문가도 반한 정밀 측정 비법"
-description: "AIRAJ 5m25mm 줄자- 당신의 작업에 오차 없는 정확성을 더하다"
+title: 'AIRAJ 5m 줄자, 0오차로 120% 정확! 전문가도 반한 정밀 측정 비법'
+description: 'AIRAJ 5m25mm 줄자- 당신의 작업에 오차 없는 정확성을 더하다'
 date: 2026-02-25T07:37:00+09:00
-author: Moon
+author: 'Moon'
 categories: [shopping]
 tags: ["Top5", "shopping", "airaj줄자", "줄자", "AIRAJ", "정밀측정", "건축공구", "DIY용품", "산업용줄자"]
----
 
 > 💦 이 포스팅은 파트너스 활동을 통해 일정액의 수수료를 제공받습니다. 💦
 
