@@ -3,8 +3,9 @@ title: '👕16수 PARIS 반팔티, 5가지 매력에 반하는 당신! 최저가
 description: 'UnTAPTED 남녀공용 PARIS 16수 반팔 티셔츠, 당신의 옷장에 스며들 파리지앵 감성'
 date: 2026-02-25T07:13:00+09:00
 author: 'Moon'
-categories: [shopping]
-tags: ["Top5", "shopping", "t1tomahawk", "언탭트", "PARIS", "반팔티", "16수", "남녀공용", "코디"]
+categories: ['shopping']
+tags: ['Top5', 'shopping', 't1tomahawk', '언탭트', 'PARIS', '반팔티', '16수', '남녀공용', '코디']
+---
 
 > 💦 이 포스팅은 파트너스 활동을 통해 일정액의 수수료를 제공받습니다. 💦
 

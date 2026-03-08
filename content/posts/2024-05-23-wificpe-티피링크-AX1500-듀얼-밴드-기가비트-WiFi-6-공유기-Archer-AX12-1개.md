@@ -1,10 +1,10 @@
-﻿---
-title: "wificpe  [30~40대 여성추천] 티피링크 AX1500 듀얼 밴드 기가비트 Wi-Fi 6 공유기, Archer AX12, 1개 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보"
+---
+title: 'wificpe  [30~40대 여성추천] 티피링크 AX1500 듀얼 밴드 기가비트 Wi-Fi 6 공유기, Archer AX12, 1개 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보'
 date: 2024-05-23
-slug: "wificpe-티피링크-AX1500-듀얼-밴드-기가비트-WiFi-6-공유기-Archer-AX12-1개"
-author: Moon
-categories: [shopping]
-tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, wificpe]
+slug: 'wificpe-티피링크-AX1500-듀얼-밴드-기가비트-WiFi-6-공유기-Archer-AX12-1개'
+author: 'Moon'
+categories: ['shopping']
+tags: ['Top10', 'shopping', '장점', '추천', '추천제품', '구매가이드', '할인', '최저가격', '상품평', '후기', 'wificpe']
 ---
 
 <p data-nosnippet>💦 💦 💦 파트너스 활동을 통해 일정액의 수수료를 제공받습니다.</p>

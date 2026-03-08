@@ -3,8 +3,9 @@ title: '5세대 로드 NT1! 🎧 왜 모두가 추천할까? (5가지 장점)'
 description: '음악을 사랑하는 당신, 최고의 사운드를 향한 여정에 로드(Rode) NT1 5th Gen 콘덴서 마이크가 함께할 준비를 마쳤습니다'
 date: 2026-02-25T07:12:00+09:00
 author: 'Moon'
-categories: [shopping]
-tags: ["Top5", "shopping", "reekont1", "로드NT1", "콘덴서마이크", "홈레코딩", "USB마이크", "XLR마이크", "32비트플로트"]
+categories: ['shopping']
+tags: ['Top5', 'shopping', 'reekont1', '로드NT1', '콘덴서마이크', '홈레코딩', 'USB마이크', 'XLR마이크', '32비트플로트']
+---
 
 > 💦 이 포스팅은 파트너스 활동을 통해 일정액의 수수료를 제공받습니다. 💦
 
